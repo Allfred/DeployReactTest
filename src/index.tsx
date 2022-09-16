@@ -12,7 +12,7 @@ const root = createRoot(container);
 root.render(
   <React.StrictMode>
     <Provider store={store}>
-        <div>"Привет"</div>
+        <div>"Привет мир"</div>
       <App></App>
     </Provider>
   </React.StrictMode>
