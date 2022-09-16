@@ -7,7 +7,7 @@ const root = createRoot(container);
 
 root.render(
   <React.StrictMode>
-        <div>"Привет мир"</div>
+        <div>"Hello world"</div>
   </React.StrictMode>
 );
 
